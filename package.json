@@ -1,0 +1,23 @@
+{
+  "name": "first_project_nodejs",
+  "version": "1.0.0",
+  "description": "configuring the plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test jsaqa"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arsi8012/PlatformNodeJs.git"
+  },
+  "keywords": [
+    "test",
+    "jsaqa"
+  ],
+  "author": "AtlasovOA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arsi8012/PlatformNodeJs/issues"
+  },
+  "homepage": "https://github.com/arsi8012/PlatformNodeJs#readme"
+}
